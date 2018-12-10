@@ -1,0 +1,162 @@
+[
+    {
+      "Username": "Shaik",
+      "Gender": "male",
+      "DateOfBirth": "1994-02-21",
+      "Password": "password",
+      "Created": "2017-08-02",
+      "LastActive": "2017-08-02",
+      "City": "Efland",
+      "Country": "Burundi",
+      "Addresses": [
+        {
+          "Residence": "Jayanagar, Efland",
+          "Office": "HSR, Bangalore"
+        }
+      ]
+    },
+    {
+        "Username": "Samad",
+        "Gender": "male",
+        "DateOfBirth": "1979-04-19",
+        "Password": "password",
+        "Created": "2017-01-21",
+        "LastActive": "2017-01-21",
+        "City": "Deseret",
+        "Country": "Mongolia",
+        "Addresses": [
+            {
+                "Residence": "Munnar, Deseret",
+                "Office": "BTM Layout, Hyderabad"
+            }
+        ]
+    },
+    {
+      "Username": "Reba",
+      "Gender": "female",
+      "DateOfBirth": "1984-12-05",
+      "Password": "password",
+      "Created": "2017-06-24",
+      "LastActive": "2017-06-24",
+      "City": "Hannasville",
+      "Country": "Poland",
+      "Addresses": [
+        {
+            "Residence": "Paradise, Pondicherry",
+            "Office": "SLV Street, Delhi"
+        }
+      ]
+    },
+    {
+      "Username": "Annmarie",
+      "Gender": "female",
+      "DateOfBirth": "1970-02-25",
+      "Password": "password",
+      "Created": "2017-07-17",
+      "LastActive": "2017-07-17",
+      "City": "Sutton",
+      "Country": "Bouvet Island",
+      "Addresses": [
+        {
+            "Residence": "Kalyan Nagar, Lucknow",
+            "Office": "SBH Road, Pune"
+        }
+      ]
+    },
+    {
+      "Username": "Ashley",
+      "Gender": "female",
+      "DateOfBirth": "1953-03-01",
+      "Password": "password",
+      "Created": "2017-03-25",
+      "LastActive": "2017-03-25",
+      "City": "Bayview",
+      "Country": "Zambia",
+      "Addresses": [
+        {
+            "Residence": "Jayadeva, Hyderabad",
+            "Office": "HSR, Bangalore"
+        }
+      ]
+    },
+    {
+      "Username": "Roy",
+      "Gender": "male",
+      "DateOfBirth": "1993-08-21",
+      "Password": "password",
+      "Created": "2017-08-03",
+      "LastActive": "2017-08-03",
+      "City": "Davenport",
+      "Country": "Tuvalu",
+      "Addresses": [
+        {
+            "Residence": "SR Nagar, Chennai",
+            "Office": "Hi-Tech City, Ranchi"
+        }
+      ]
+    },
+    {
+      "Username": "Duke",
+      "Gender": "male",
+      "DateOfBirth": "1996-09-07",
+      "Password": "password",
+      "Created": "2017-07-07",
+      "LastActive": "2017-07-07",
+      "City": "Inkerman",
+      "Country": "Canada",
+      "Addresses": [
+        {
+            "Residence": "Gandhi Nagar, Sikkim",
+            "Office": "Commercial Street, Goa"
+        }
+      ]
+    },
+    {
+      "Username": "Lloyd",
+      "Gender": "male",
+      "DateOfBirth": "1957-03-07",
+      "Password": "password",
+      "Created": "2017-08-22",
+      "LastActive": "2017-08-22",
+      "City": "Loma",
+      "Country": "Paraguay",
+      "Addresses": [
+        {
+            "Residence": "Indiranagar, JP Nagar",
+            "Office": "MG Road, Bangalore"
+        }
+      ]
+    },
+    {
+      "Username": "Larsen",
+      "Gender": "male",
+      "DateOfBirth": "1969-08-15",
+      "Password": "password",
+      "Created": "2017-02-17",
+      "LastActive": "2017-02-17",
+      "City": "Bynum",
+      "Country": "Pakistan",
+      "Addresses": [
+        {
+            "Residence": "Koramangala, Hyderabad",
+            "Office": "HSR, India"
+        }
+      ]
+    },
+    {
+      "Username": "Simon",
+      "Gender": "male",
+      "DateOfBirth": "1984-02-19",
+      "Password": "password",
+      "Created": "2017-06-27",
+      "LastActive": "2017-06-27",
+      "City": "Cavalero",
+      "Country": "Viet Nam",
+      "Addresses": [
+        {
+            "Residence": "Jayanagar, Bangalore",
+            "Office": "HSR, Dubai"
+        }
+      ]
+    }
+  ]
